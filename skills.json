@@ -1,5 +1,37 @@
 [
     {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-shadow-tal-revivo.png"
+    },
+    {
+        "name": "Jira",
+        "icon": "https://img.icons8.com/color/64/jira.png"
+    },
+    {
+        "name": "Trello",
+        "icon": "https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/64/external-trello-a-web-based-list-making-application-for-multi-platform-logo-fresh-tal-revivo.png"
+    },
+    {
+        "name": "Asana",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/external-asana-a-web-and-mobile-application-designed-to-help-teams-organize-track-and-manage-their-work-logo-shadow-tal-revivo.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/64/figma--v1.png"
+    },
+    {
+        "name": "Google Analytics",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-google-analytics-lets-you-measure-your-advertising-roi-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "Notion",
+        "icon": "https://img.icons8.com/glyph-neue/64/notion.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/64/000000/mysql-logo.png"
+    },
+    {
         "name": "Product Strategy",
         "icon": "https://img.icons8.com/color/64/strategy-board.png"
     },
@@ -50,73 +82,5 @@
     {
         "name": "Wireframing",
         "icon": "https://img.icons8.com/external-soft-fill-juicy-fish/64/external-experience-user-experience-soft-fill-soft-fill-juicy-fish-15.png"
-    },
-    {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-shadow-tal-revivo.png"
-    },
-    {
-        "name": "Jira",
-        "icon": "https://img.icons8.com/color/64/jira.png"
-    },
-    {
-        "name": "Trello",
-        "icon": "https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/64/external-trello-a-web-based-list-making-application-for-multi-platform-logo-fresh-tal-revivo.png"
-    },
-    {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
-    },
-    {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
-    },
-    {
-        "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-    },
-    {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
-    },
-    {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
-    },
-    {
-        "name": "PostgreSQL",
-        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
-    },
-    {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
-    },
-    {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
-    },
-    {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-    },
-    {
-        "name": "DigitalOcean",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
-    },
-    {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
-    },
-    {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+    }
 ]
