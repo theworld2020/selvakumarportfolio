@@ -5,11 +5,11 @@
     },
     {
         "name": "Roadmap",
-        "icon": "./assets/images/skills/roadmap.png"
+        "icon": "https://img.icons8.com/3d-fluency/94/track-order.png"
     },
     {
         "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+        "icon": "https://img.icons8.com/clouds/100/roadmap--v1.png"
     },
     {
         "name": "Redux",
