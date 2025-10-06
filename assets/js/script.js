@@ -36,22 +36,37 @@ $(document).ready(function () {
             scrollTop: $($(this).attr('href')).offset().top,
         }, 500, 'linear')
     });
+document.getElementById("contact-form").addEventListener("submit", function(event) {
+    event.preventDefault();
+
+    // Initialize EmailJS
+    emailjs.init("IC4b7SpmwYiZDXTjk"); // Replace with your actual Public Key
+
+    emailjs.sendForm("service_m0l6okm", "template_mbgrsq6", this)
+        .then(function() {
+            alert("✅ Form Submitted Successfully!");
+            document.getElementById("contact-form").reset();
+        }, function(error) {
+            console.error("❌ FAILED...", error);
+            alert("Form Submission Failed! Try Again.");
+        });
+});
 
     // <!-- emailjs to mail contact form data -->
-    $("#contact-form").submit(function (event) {
-        emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
+  //  $("#contact-form").submit(function (event) {
+   //     emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
 
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
-            .then(function (response) {
-                console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
-                alert("Form Submitted Successfully");
-            }, function (error) {
-                console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
-            });
-        event.preventDefault();
-    });
+     //   emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
+      //      .then(function (response) {
+      //          console.log('SUCCESS!', response.status, response.text);
+       //         document.getElementById("contact-form").reset();
+        //        alert("Form Submitted Successfully");
+       //     }, function (error) {
+      //          console.log('FAILED...', error);
+      //          alert("Form Submission Failed! Try Again");
+     //       });
+    //    event.preventDefault();
+ //   });
     // <!-- emailjs to mail contact form data -->
 
 });
