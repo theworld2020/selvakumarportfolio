@@ -458,7 +458,7 @@ header .navbar ul li a:hover {
 /* about media queries ends*/
 /* about section ends */
 
-/* skills section starts */
+/* skills section starts 
 .skills {
   min-height: 90vh;
   background: linear-gradient(to bottom, #57059e, #4a00e0);
@@ -512,7 +512,7 @@ header .navbar ul li a:hover {
   font-family: "Poppins";
   margin-left: 0.5rem;
 }
-/* skills media queries starts*/
+/* skills media queries starts
 @media screen and (max-width: 600px) {
   .skills .container {
     padding: 0;
@@ -531,6 +531,96 @@ header .navbar ul li a:hover {
 }
 /* skills media queries ends*/
 /* skills section ends */
+/* skills section starts */
+.skills {
+  min-height: 90vh;
+  background: linear-gradient(to bottom, #57059e, #4a00e0);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.skills h2 {
+  color: #fff;
+  text-align: center;
+}
+
+.skills .heading span {
+  color: rgb(255, 230, 0);
+}
+
+.skills .container {
+  background: rgba(0, 0, 22, 0.4);
+  color: #fff;
+  border-radius: 1rem;
+  padding: 2rem;
+  width: 90%;
+  max-width: 1200px;
+  margin: 2rem auto;
+}
+
+.skills .container .row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1.5rem;
+  justify-items: center;
+}
+
+.skills .container .bar {
+  width: 150px;
+  height: 150px;
+  border-radius: 1rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 22, 0.9);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: 0.3s ease;
+  text-align: center;
+}
+
+.skills .container .bar:hover {
+  box-shadow: 0 8px 15px rgba(0, 2, 68, 0.8) !important;
+  background-color: rgba(0, 0, 0, 0.9) !important;
+  transform: translateY(-5px);
+}
+
+.skills .container .bar .info i {
+  font-size: 3.5rem;
+  color: #ffe600;
+}
+
+.skills .container .bar .info span {
+  font-size: 1.3rem;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  margin-top: 0.5rem;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  .skills .container {
+    width: 95%;
+    padding: 1rem;
+  }
+
+  .skills .container .bar {
+    width: 120px;
+    height: 120px;
+  }
+
+  .skills .container .bar .info i {
+    font-size: 2.5rem;
+  }
+
+  .skills .container .bar .info span {
+    font-size: 1.1rem;
+  }
+}
+/* skills section ends */
+
 
 /* education section starts */
 .education {
