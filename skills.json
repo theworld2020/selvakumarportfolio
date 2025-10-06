@@ -40,16 +40,16 @@
         "icon": "https://img.icons8.com/external-vectorslab-flat-vectorslab/64/external-Idea-Target-web-marketing-vectorslab-flat-vectorslab.png"
     },
     {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+        "name": "Sprint Planning",
+        "icon": "https://img.icons8.com/arcade/64/sprint-iteration.png" alt="sprint-iteration"
     },
     {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "name": "Priotization",
+        "icon": "https://img.icons8.com/external-soft-fill-juicy-fish/64/external-prioritisation-product-management-soft-fill-soft-fill-juicy-fish.png"
     },
     {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+        "name": "Wireframing",
+        "icon": "https://img.icons8.com/external-soft-fill-juicy-fish/64/external-experience-user-experience-soft-fill-soft-fill-juicy-fish-15.png"
     },
     {
         "name": "JavaScript",
