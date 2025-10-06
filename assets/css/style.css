@@ -507,8 +507,8 @@ header .navbar ul li a:hover {
 }
 .skills .container .bar .info i {
   font-size: 100px; /* icon size 100x100 */
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   display: flex;
   align-items: center;
   justify-content: center;
