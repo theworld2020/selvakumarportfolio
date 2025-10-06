@@ -24,12 +24,12 @@
         "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-stakeholder-public-relations-agency-flaticons-lineal-color-flat-icons.png"
     },
     {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+        "name": "Agile",
+        "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-agile-no-code-flaticons-flat-flat-icons.png"
     },
     {
-        "name": "ChakraUI",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
+        "name": "A/B Testing",
+        "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-ab-testing-copywriting-flaticons-lineal-color-flat-icons-2.png"
     },
     {
         "name": "TailwindCSS",
