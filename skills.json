@@ -1,27 +1,27 @@
 [
     {
         "name": "Product Strategy",
-        "icon": "https://img.icons8.com/color/48/strategy-board.png"
+        "icon": "https://img.icons8.com/color/64/strategy-board.png"
     },
     {
         "name": "Roadmap",
-        "icon": "https://img.icons8.com/3d-fluency/48/track-order.png"
+        "icon": "https://img.icons8.com/3d-fluency/64/track-order.png"
     },
     {
         "name": "Market Analysis",
-        "icon": "https://img.icons8.com/external-3d-design-circle/48/external-Market-Analysis-seo-and-marketing-3d-design-circle.png"
+        "icon": "https://img.icons8.com/external-3d-design-circle/64/external-Market-Analysis-seo-and-marketing-3d-design-circle.png"
     },
     {
         "name": "Competitor Analysis",
-        "icon": "https://img.icons8.com/color/48/rebalance-portfolio--v1.png"
+        "icon": "https://img.icons8.com/color/64/rebalance-portfolio--v1.png"
     },
     {
         "name": "User research",
-        "icon": "https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/48/external-search-project-work-icongeek26-linear-colour-icongeek26.png"
+        "icon": "https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/external-search-project-work-icongeek26-linear-colour-icongeek26.png"
     },
     {
         "name": "Stakeholder Management",
-        "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-stakeholder-public-relations-agency-flaticons-lineal-color-flat-icons.png"
+        "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-stakeholder-public-relations-agency-flaticons-lineal-color-flat-icons.png"
     },
     {
         "name": "MaterialUI",
