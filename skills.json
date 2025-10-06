@@ -1,15 +1,15 @@
 [
     {
         "name": "Strategy",
-        "icon": "https://img.icons8.com/arcade/64/strategy-board.png"
+        "icon": "https://img.icons8.com/color/48/strategy-board.png"
     },
     {
         "name": "Roadmap",
-        "icon": "https://img.icons8.com/3d-fluency/94/track-order.png"
+        "icon": "https://img.icons8.com/3d-fluency/48/track-order.png"
     },
     {
         "name": "NodeJS",
-        "icon": "https://img.icons8.com/clouds/100/roadmap--v1.png"
+        "icon": "https://img.icons8.com/clouds/48/roadmap--v1.png"
     },
     {
         "name": "Redux",
